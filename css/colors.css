@@ -6,4 +6,5 @@
 .all_wrap[data-color="black"] .about .description .name span{color: #000;}
 .all_wrap[data-color="black"] .title span{background-color: rgba(0,0,0,.04);}
 .all_wrap[data-color="black"] .portfolio .portfolio_filter ul li a.current{color: #000;}
+.home .social .social-icon{color: #000;}
 body a{color: #000;}
