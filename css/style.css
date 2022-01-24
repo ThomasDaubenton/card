@@ -29,6 +29,9 @@ img.svg{
 	width: 15px;
 	height: 15px;
 }
+a, a:visited, a:hover, a:active {
+  color: inherit;
+}
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
     color: #6f6f6f;
 }
