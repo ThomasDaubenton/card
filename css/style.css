@@ -333,6 +333,9 @@ h6 { font-size: 16px; }
 	margin-bottom: 20px;
 	color: #007be4
 }
+.home .details .skills span {
+    color: #cdcdcd;
+}
 .home .social{
 	width: 100%;
 	float: left;
