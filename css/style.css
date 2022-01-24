@@ -319,6 +319,9 @@ h6 { font-size: 16px; }
 	margin-bottom: 14px;
   margin-top: 0px;
 }
+.home .details span{
+	font-weight: 800;
+}
 .home .details .job{
 	font-family: "Montserrat";
 	font-style: italic;
