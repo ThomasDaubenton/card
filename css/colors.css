@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+.settings .colors li a.black{background-color: #333;}
+.all_wrap[data-color="black"] .cursor-inner.cursor-hover{background-color: #000;}
+.all_wrap[data-color="black"] .cursor-outer{border-color: #000;}
+.all_wrap[data-color="black"] .cursor-inner{background-color: #000;}
+.all_wrap[data-color="black"] .home .details .name span{color: #000;}
+.all_wrap[data-color="black"] .home .social ul li a:hover{color: #000;}
+.all_wrap[data-color="black"] .leftpart .menu ul li.active a{color: #000;}
+.all_wrap[data-color="black"] .leftpart .menu ul li a:hover{color: #000;}
+.all_wrap[data-color="black"] .leftpart .copyright a:hover{color: #000;}
+.all_wrap[data-color="black"] .about .description .name span{color: #000;}
+.all_wrap[data-color="black"] .about .description .right > ul > li span{color: #000;}
+.all_wrap[data-color="black"] .button a{background-color: #000;}
+.all_wrap[data-color="black"] .about .description .right > ul > li a:hover{color: #000;}
+.all_wrap[data-color="black"] .portfolio .portfolio_filter ul li a:hover{color: #000;}
+.all_wrap[data-color="black"] .title span{background-color: rgba(0,0,0,.04);}
+.all_wrap[data-color="black"] .news ul li .details .date a:hover{color: #000;}
+.all_wrap[data-color="black"] .news ul li .details .title a:hover{color: #000;}
+.all_wrap[data-color="black"] .modalbox_news .date a:hover{color: #000;}
+.all_wrap[data-color="black"] .modalbox_news .main_content .icon .svg{color: #000;}
+.all_wrap[data-color="black"] .progress_inner .background .bar_in{background: #000;}
+.all_wrap[data-color="black"] .modalbox_about .counter ul li h3{color: #000;}
+.all_wrap[data-color="black"] .modalbox_news .news_share ul li a:hover{color: #000;}
+.all_wrap[data-color="black"] .portfolio .portfolio_filter ul li a.current{color: #000;}
+body.dark .all_wrap[data-color="black"] .leftpart .copyright a:hover{color: #000;}
+body.dark .all_wrap[data-color="black"] .button a{color: #fff;}
+body.dark .all_wrap[data-color="black"] .leftpart .menu ul li.active a{color: #000;}
+body.dark .all_wrap[data-color="black"] .leftpart .menu ul li a:hover{color: #000;}
